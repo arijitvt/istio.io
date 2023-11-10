@@ -172,7 +172,7 @@ The Istio component that programs the {{</*gloss envoy*/>}}Envoy{{</*/gloss*/>}}
 
 Renders with the pop up for the `envoy` glossary entry as follows:
 
-The Istio component that programs the {{< gloss envoy >}}Envoy{{</ gloss >}} proxies, responsible for service discovery, load balancing, and routing.
+The Istio component that programs the {{< gloss Envoy >}}Envoy{{</ gloss >}} proxies, responsible for service discovery, load balancing, and routing.
 
 ## Callouts
 
